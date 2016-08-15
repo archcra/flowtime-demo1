@@ -1,0 +1,30 @@
+{
+    "name": "intro-node-js",
+    "version": "0.0.1",
+    "authors": [
+    "Huo Yongxue <huo.yongxue@viathink.com>"
+  ],
+    "description": "Introduction of Node.js",
+    "main": "index.html",
+    "license": "MIT",
+    "homepage": "www.rifle.im",
+    "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+    "dependencies": {
+        "jquery": "3.1.0",
+        "async ": "1.5.2",
+        "flowtime": "*",
+        "animate.css":"3.5.2",
+        "font-awesome":"4.6.3",
+        "modernizr":"3.3.1",
+        "Hover":"2.0.2",
+        "bootstrap":"3.3.7",
+        "jquery-ui":"1.12.0",
+        "fancybox":"2.1.5"
+    }
+}
